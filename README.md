@@ -38,14 +38,13 @@ Output Waveform
 
 Tabular Column
 
+<img width="1537" height="950" alt="image" src="https://github.com/user-attachments/assets/00cc6022-e95f-4422-9efc-b3277baed361" />
 
 
 Calculation
 
-
-
+<img width="711" height="608" alt="image" src="https://github.com/user-attachments/assets/d25b568b-ebe9-4b3e-8d11-9fe5923dbf34" />
 
 Result
-
 
 The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
